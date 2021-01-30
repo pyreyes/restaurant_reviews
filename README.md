@@ -6,4 +6,4 @@ My individual contribution to the group project was creating topic models using 
 
 Preprocessing of the data for input into the LDA model included tokenization and removing stop words, creation of bigrams, and lemmatization. Tokenization splits the text into sentences and the sentences into words. Bigrams allow us to capture two words frequently occurring together. 
 
-Full code can be found [here.](Topic Model 1.ipynb)
+Full code can be found [here.](Topic_Model1.ipynb)
